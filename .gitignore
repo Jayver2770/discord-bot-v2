@@ -10,3 +10,4 @@ status.ts
 welcome.ts
 status-changer.ts
 welcome-schema.ts
+delete.ts
