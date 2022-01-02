@@ -4,4 +4,9 @@ collector.ts
 get.ts
 rcollector.ts
 post.ts
-delete.ts
+simjoin.ts
+setwelcome.ts
+status.ts
+welcome.ts
+status-changer.ts
+welcome-schema.ts
