@@ -1,2 +1,7 @@
 .env
 node_modules
+collector.ts
+get.ts
+rcollector.ts
+post.ts
+delete.ts
