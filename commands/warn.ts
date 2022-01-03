@@ -6,7 +6,7 @@ export default {
     category: 'Moderation',
     description: 'Warns a user',
 
-    permissions: ['MUTE_MEMBERS', 'BAN_MEMBERS',],
+    permissions: ['MUTE_MEMBERS'],
 
     slash: true,
     guildOnly: true,
