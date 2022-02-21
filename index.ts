@@ -1,4 +1,4 @@
-import DiscordJS, { Intents } from 'discord.js'
+import DJS, { Intents } from 'discord.js'
 import WOK from 'wokcommands'
 import path from 'path'
 import mongoose from 'mongoose'
@@ -6,7 +6,7 @@ import 'dotenv/config'
 
 // import testSchema from './test-schema'
 
-const client = new DiscordJS.Client({
+const client = new DJS.Client({
     intents: [
         Intents.FLAGS.GUILDS, 
         Intents.FLAGS.GUILD_MESSAGES, 

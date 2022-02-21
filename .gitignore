@@ -11,3 +11,4 @@ welcome.ts
 status-changer.ts
 welcome-schema.ts
 delete.ts
+page.ts
